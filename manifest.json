@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "UnixTime",
+    "version": "0.1",
+    "description": "Does conversions to/from Unix timestamps in the sidebar",
+    "applications": {
+        "gecko": {
+            "id": "unixtime@kidneybone.co"
+        }
+    },
+    "sidebar_action": {
+        "default_title": "UnixTime",
+        "default_panel": "sidebar.html"
+    }
+}
